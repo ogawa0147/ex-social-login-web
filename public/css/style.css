@@ -1,0 +1,8 @@
+div.m10 { margin: 10px; }
+div.mt10, p.mt10 { margin-top: 10px; }
+div.p15 { padding: 15px; }
+div.box { border: 1px solid skyblue; width: 400px; display: block; height: auto; }
+table { width: 450px; }
+table tr th, table tr td { padding: 0 10px; border: 1px solid #DDD; vertical-align: middle; }
+table tr th { text-align: center; font-weight: bold; }
+table { -ms-user-select: none; -webkit-user-select: none; user-select: none; cursor: default; }
